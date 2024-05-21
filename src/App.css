@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  margin-top: 50px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+h4 {
+  margin-top: 20px;
+}
+
+.text-success {
+  font-weight: bold;
+}
